@@ -1,1 +1,1 @@
-# tinder
+# Tinder - python project for data analysis
